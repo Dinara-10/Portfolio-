@@ -1,12 +1,3 @@
-## Общий комментарий
-
-Подробное задание в файле шаблона.
-
-
-Максимально использовать Pandas и Plotly или Bokeh или GeoPandas (для визуализации карты Мира со странами). Применение излишних циклов ведет к снижению баллов (циклы - ЗЛО). Применение ненужных функций - аналогично. Используйте apply, map и lambda по максимуму. Помним про корректное применение сортировок.
-
-Вспоминаем английский:
-
 csv_airports_v1.csv:
 - `Airport ID`	Unique OpenFlights identifier for this airport.
 - `Name of airport`. May or may not contain the City name.
